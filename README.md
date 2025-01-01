@@ -9,7 +9,7 @@ This project is inspired by this video https://youtu.be/Dbr8jmtfZ7Q?si=2qFXA_I7L
 - Due to the low signal-to-noise ratio, stakeholders get more confused and then ask more question which in-turns leads to more dashboards and so on... a vicious cycle 
 
 ## Solution
-- A derived "formaula" of the business using only metrics with correlation to each other and the key business metrics
+- A derived "formular" of the business using only metrics with correlation to each other and the key business metrics
 - Run frequent experiments to strengthen correlations, add or discard metrics
 - A web application to view this tree and accompanying dashboards for shared business understanding and for identification of growth levers.
 
